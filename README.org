@@ -1,0 +1,7 @@
+* [[https://apps.apple.com/us/app/scratch/id1671420139][*scratch* app for iOS]]
+
+Thank you for using scratch for iOS. Ran into a bug? Got feature requests? Please file them or comment on existing ones.
+
+** Filing bugs and feature requests
+
+Please file bugs or feature requests under GitHub [[https://github.com/plainorg/scratch/issues][issues]], using the =bug= and =enhancement= flags.
